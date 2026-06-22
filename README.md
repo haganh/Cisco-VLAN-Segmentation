@@ -3,7 +3,8 @@
 This implementation focuses on micro-segmentation using 802.1Q VLAN tagging to isolate student and faculty traffic across a multi-switch topology, alongside fundamental Cisco IOS device hardening.
 
 ## Network Topology
-<img width="791" height="687" alt="1" src="https://github.com/user-attachments/assets/7326e48a-5b61-441d-8b31-3637bfa2d709" />
+<img width="581" height="637" alt="Screenshot 2026-06-21 203123" src="https://github.com/user-attachments/assets/0d92c8a8-bdb0-48e2-bceb-bfc3a0752fdf" />
+
 
 ## Addressing Table
 <img width="467" height="247" alt="Screenshot 2026-06-21 202016" src="https://github.com/user-attachments/assets/f086fd18-bad9-489b-99e7-53fb7c7cafaa" />
